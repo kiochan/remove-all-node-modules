@@ -1,0 +1,24 @@
+{
+  "name": "remove-all-node-modules",
+  "version": "1.0.0",
+  "description": "remove all node_modules directories recursively",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiochan/remove-all-node-modules.git"
+  },
+  "keywords": [
+    "node_modules",
+    "clean",
+    "tools"
+  ],
+  "author": {
+    "name" : "Xingchen Sun",
+    "email" : "sunxingchen@live.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kiochan/remove-all-node-modules/issues"
+  },
+  "homepage": "https://github.com/kiochan/remove-all-node-modules#readme"
+}
